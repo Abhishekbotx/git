@@ -1,4 +1,4 @@
-class (){
+class {
 static void(){
 // some codes
 
